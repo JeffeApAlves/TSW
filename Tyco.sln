@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSoftware", "POSoftware\POSoftware.csproj", "{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveSupplier", "ActiveSupplier\ActiveSupplier.csproj", "{6EEED304-B872-4CCB-BA5C-1B817A7963BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F01DB1EE-6C38-46A2-A9D3-D0C8E2CE6D41}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Manual.docx = Documentation\Manual.docx
+		README.txt = README.txt
+		Documentation\Teste Técnico de Desenvolvimento Standalone V2.docx = Documentation\Teste Técnico de Desenvolvimento Standalone V2.docx
+		Script_DB\TycoDB.sql = Script_DB\TycoDB.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}.Debug|x86.Build.0 = Debug|Any CPU
+		{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}.Release|x86.ActiveCfg = Release|Any CPU
+		{B9654F4B-E73D-4264-A856-82ABEF0AF2FA}.Release|x86.Build.0 = Release|Any CPU
+		{6EEED304-B872-4CCB-BA5C-1B817A7963BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEED304-B872-4CCB-BA5C-1B817A7963BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEED304-B872-4CCB-BA5C-1B817A7963BF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6EEED304-B872-4CCB-BA5C-1B817A7963BF}.Debug|x86.Build.0 = Debug|Any CPU
+		{6EEED304-B872-4CCB-BA5C-1B817A7963BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEED304-B872-4CCB-BA5C-1B817A7963BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EEED304-B872-4CCB-BA5C-1B817A7963BF}.Release|x86.ActiveCfg = Release|Any CPU
+		{6EEED304-B872-4CCB-BA5C-1B817A7963BF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

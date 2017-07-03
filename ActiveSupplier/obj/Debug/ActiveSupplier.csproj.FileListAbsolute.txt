@@ -1,0 +1,9 @@
+C:\Projects\Tyco\ActiveSupplier\bin\Debug\ActiveSupplier.exe.config
+C:\Projects\Tyco\ActiveSupplier\bin\Debug\ActiveSupplier.exe
+C:\Projects\Tyco\ActiveSupplier\bin\Debug\ActiveSupplier.pdb
+C:\Projects\Tyco\ActiveSupplier\obj\Debug\ActiveSupplier.Properties.Resources.resources
+C:\Projects\Tyco\ActiveSupplier\obj\Debug\ActiveSupplier.csproj.GenerateResource.Cache
+C:\Projects\Tyco\ActiveSupplier\obj\Debug\ActiveSupplier.exe
+C:\Projects\Tyco\ActiveSupplier\obj\Debug\ActiveSupplier.pdb
+C:\Projects\Tyco\ActiveSupplier\obj\Debug\ActiveSupplier.csprojResolveAssemblyReference.cache
+C:\Projects\Tyco\ActiveSupplier\obj\Debug\ActiveSupplier.ActiveSupplier.resources
