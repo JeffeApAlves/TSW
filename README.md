@@ -2,17 +2,20 @@
 
 ## Descrição Geral
 
+Software de cadastro de pedido com notificação via UDP
 
-Utilização de entityframework e UDP socket para comunicção entre aplicações
+## Comunicação
 
-Com a proposta de não ter cógido SQL junto ao fonte para facilitar manutenções futuras da base e do software a solução
-adotada foi o uso do entityframework onde a base de dados é toda abstraida inclusive as consultas que seriam armazeanadas na 
-própria base.
-Não foi preciso criar nenhuma stored procedure, mas se necessário seria abstraido da mesma forma.
+UDP socket
+
+## Database first
+
+Com a proposta de não ter cógido SQL junto ao fonte para facilitar manutenções futuras da base e do software 
+a solução adotada foi o uso do entityframework onde a base de dados é toda abstraida inclusive as consultas 
+que são armazeanadas na própria base.
+
 Em POSoftware > Infra > Model1.edmx é possivel visualizar o MER da base. A manutenção do modelo está sendo 
 mantida atraves da própria ferramenta do VS. 
-
-Inicialmente foi tentado fazer um code first, mas optei por abortar. 
 
 ## Code first
 
