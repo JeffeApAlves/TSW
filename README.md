@@ -1,6 +1,6 @@
-#TSW
+# TSW
 
-##Descricao geral
+## Descrição Geral
 
 
 Utilização de entityframework e UDP socket para comunicção entre aplicações
@@ -14,17 +14,19 @@ mantida atraves da própria ferramenta do VS.
 
 Inicialmente foi tentado fazer um code first, mas optei por abortar. 
 
-##Para utilizacao de code first
+## Code first
 
-enable-migrations
-update-database
-update-database -verbose -script
+Para gerar o modelo
 
-##Configuração 
+    enable-migrations
+    update-database
+    update-database -verbose -script
+
+## Configuração 
 
 Instalar os pacotes abaixo através do PMC:
 
-install-package entityframework
-install-package ninject
-install-package CommonServiceLocator
-install-package CommonServiceLocator.NinjectAdapter.Unofficial
+    install-package entityframework
+    install-package ninject
+    install-package CommonServiceLocator
+    install-package CommonServiceLocator.NinjectAdapter.Unofficial
