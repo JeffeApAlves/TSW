@@ -2,6 +2,33 @@
 
 Software de cadastro de pedido com notificação via UDP
 
+![PCSoftware](images/pcsoftware.png)
+
+PCSoftware
+1. Formulario fabricante
+Aqui sera visualizado e inseridos informacoes sobre o fabricante.
+
+2. Historico (log) de alteracoes  na base de fornecedores
+Lista automaticamnete historico das alteracoes do fornecedor listado no item 3
+
+3. Lista de fornecedores
+Apresenta a lista dos fornecedores que podera ser filtrada pelos campos do item 4
+
+4. Filtros
+Entrada de filtros
+
+5. Botoes
+Comando para manutencao da base
+
+ActiveSupplier
+
+![ActiveSupplier](images/activesupplier.png)
+
+6. Lista de notificacoes
+Atualizada a cada 2 segundos
+
+
+
 ## Comunicação
 
 UDP socket
