@@ -4,28 +4,29 @@ Software de cadastro de pedido com notificação via UDP
 
 ![PCSoftware](images/pcsoftware.png)
 
-PCSoftware
+## PCSoftware
+
 1. Formulario fabricante
-Aqui sera visualizado e inseridos informacoes sobre o fabricante.
+    Aqui será visualizado e inseridos informacoes sobre o fabricante.
 
 2. Historico (log) de alteracoes  na base de fornecedores
-Lista automaticamnete historico das alteracoes do fornecedor listado no item 3
+    Lista automaticamnete o histórico das alteracoes do fornecedor listado no item 3
 
 3. Lista de fornecedores
-Apresenta a lista dos fornecedores que podera ser filtrada pelos campos do item 4
+   Apresenta a lista dos fornecedores que poderá ser filtrada pelos campos do item 4
 
 4. Filtros
-Entrada de filtros
+   Entrada dos filtros
 
 5. Botoes
-Comando para manutencao da base
+   Comando para manutenção da base de fornecedores
 
-ActiveSupplier
+## ActiveSupplier
 
 ![ActiveSupplier](images/activesupplier.png)
 
-6. Lista de notificacoes
-Atualizada a cada 2 segundos
+6. Lista de notificaçõess
+    A tela é atualizada a cada 2 segundos.
 
 
 
