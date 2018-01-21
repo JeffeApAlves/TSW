@@ -1,5 +1,3 @@
-# TSW
-
 ## Descrição Geral
 
 Software de cadastro de pedido com notificação via UDP
